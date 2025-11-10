@@ -1,5 +1,6 @@
 import React,{useEffect, useState} from 'react';
 
+
 import Movie from './Components/Movie';
 
 const FEATURED_API =
